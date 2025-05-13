@@ -22,7 +22,7 @@ src/
 💡 Como executar o projeto
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/wiki-repositorios.git
+git clone https://github.com/ValberGabriel/wiki-repositorios.git
 ```
 
 2. Acesse a pasta do projeto:
